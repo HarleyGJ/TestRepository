@@ -18,7 +18,7 @@ public class LargestNumber {
 			numbers.add(sc.nextInt());
 		}
 		
-		Collections.sort(numbers);;
+		Collections.sort(numbers);; 
 		System.out.println("The largest number entered was: " + numbers.get(9));
 		
 		//I did something
